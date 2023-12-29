@@ -10,10 +10,10 @@
 
 | 编号 | 实验名称 | 文件夹链接 |
 | :-------: | :----------: | :-------: |
-| 01 | RLC谐振电路及RC选频网络特性实验 | [Lab01]([HITSZ-CircLab/Lab01 at main · longlin10086/HITSZ-CircLab (github.com)](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab01)) |
-| 02 | RC一阶电路响应研究及RLC二阶电路响应研究 | [Lab02]([HITSZ-CircLab/Lab02 at main · longlin10086/HITSZ-CircLab (github.com)](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab02)) |
-| 03 | 二端口网络 | [Lab03]([HITSZ-CircLab/Lab03 at main · longlin10086/HITSZ-CircLab (github.com)](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab03)) |
-| 04 | PSpice仿真实验1（基础电路与动态电路时域分析） | [Lab04]([HITSZ-CircLab/Lab04 at main · longlin10086/HITSZ-CircLab (github.com)](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab04)) |
-| 05 | PSpice仿真实验2（非线性电路和均匀传输线分析） | [Lab05]([HITSZ-CircLab/Lab05 at main · longlin10086/HITSZ-CircLab (github.com)](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab05)) |
-| 06 | 自主学习模式下探究实验的研究 | [Lab06]([HITSZ-CircLab/Lab06 at main · longlin10086/HITSZ-CircLab (github.com)](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab06)) |
+| 01 | RLC谐振电路及RC选频网络特性实验 | [Lab01](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab01) |
+| 02 | RC一阶电路响应研究及RLC二阶电路响应研究 | [Lab02](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab02) |
+| 03 | 二端口网络 | [Lab03](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab03) |
+| 04 | PSpice仿真实验1（基础电路与动态电路时域分析） | [Lab04](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab04) |
+| 05 | PSpice仿真实验2（非线性电路和均匀传输线分析） | [Lab05](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab05) |
+| 06 | 自主学习模式下探究实验的研究 | [Lab06](https://github.com/longlin10086/HITSZ-CircLab/tree/main/Lab06) |
 
